@@ -14,7 +14,7 @@ The IARA dataset is named after the vehicle used to capture the images: the Inte
 
 ![SamplesIARAdaylight](https://github.com/rodrigoberriel/streetview-crosswalk-classification/blob/master/images/samples-iara.png)
 
-Download [here](https://drive.google.com/drive/folders/11ETzxerQnfDdxkOSvX9LWKyyxRoqT7Wr?usp=sharing). The images are in the four `.tar.gz` (images1, images2, images3, and images4) and the annotations in the `iara.txt` file.
+Download [here](https://drive.google.com/drive/folders/1Ib9bGf0qiqS0Of-xfFde_CZg10xRFLP_?usp=sharing). The images are in the four `.zip` (images1, images2, images3, and images4) and the annotations in the `iara.txt` file.
 
 #### IARA (night)
 
@@ -22,7 +22,7 @@ The sequence comprises 12,114 frames (in a temporal sequence) covering part of t
 
 ![SamplesIARAnight](https://github.com/rodrigoberriel/streetview-crosswalk-classification/blob/master/images/samples-iara-night.png)
 
-Download [here](https://drive.google.com/drive/folders/1cg0R5GpNBbtr2Sps8I6CUFrDRRseS-sr?usp=sharing). The images are in the `iara-night.tar.gz` and the annotations in the `iara-night.txt` file.
+Download [here](https://drive.google.com/drive/folders/1vRg4Mv9aZAGhHW7B0zdXZpI8yZbHcC52?usp=sharing). The images are in the `iara-night.zip` and the annotations in the `iara-night.txt` file.
 
 #### GOPRO
 
@@ -30,4 +30,4 @@ The GOPRO dataset comprises 11,070 images recorded in the city of Vitória, Vila
 
 ![SamplesGOPRO](https://github.com/rodrigoberriel/streetview-crosswalk-classification/blob/master/images/samples-gopro.png)
 
-Download [here](https://drive.google.com/drive/folders/1x2FWpCpzv8TLwAGigRa3eEbWcvr3E5xT?usp=sharing). The images are in the `WITH_CROSSWALK.tar.gz` (the sequences that have at least one crosswalk) and `WITHOUT_CROSSWALK.tar.gz` (the sequences without any crosswalk); and the annotations in the `gopro.txt` file.
+Download [here](https://drive.google.com/drive/folders/1n1AuMgVLXTKiwONJDInoeOUlnkw5f6oB?usp=sharing). The images are in the `WITH_CROSSWALK.zip` (the sequences that have at least one crosswalk) and `WITHOUT_CROSSWALK.zip` (the sequences without any crosswalk); and the annotations in the `gopro.txt` file.
